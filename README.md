@@ -1,135 +1,135 @@
 # You-are-Pythonista
-汇聚【从零单排】【实战项目】【数据科学】【自然语言处理】【计算机视觉】【面试题系列】【大航海】【Python应用】【错题集】【技术沙龙】【内推渠道】等等
+Convergence [Single row from zero] [Practical projects] [Data science] [Natural language processing] [Computer vision] [Interview question series] [Great voyage] [Python application] [Wrong question collection] [Technical salon] [Internal referral channels 】etc
 
-【人人都是Pythonista】由公众号【Python专栏】推出，请认准唯一标识：
+[Everyone is Pythonista] launched by the official account [Python Column], please look for the unique identifier：
 
 <div align="center">
-    <img width="40%" src="https://raw.githubusercontent.com/MiracleYoung/You-are-Pythonista/master/Static/image/logo.gif" alt="公众号二维码">
+    <img width="40%" src="https://raw.githubusercontent.com/MiracleYoung/You-are-Pythonista/master/Static/image/logo.gif" alt="Official account QR code">
 </div>
 
-请仔细阅读本文档，尤其是**使用说明**。
+Please read this document carefully, especially the **Instructions for Use**。
 
-## 目录说明
-- ComputerVision: 计算机视觉
-- DataScience: 数据科学
-- Homework: 所有的作业都提交在这个目录下，每个人创建属于自己的独立目录
-- HR: 内推渠道
-- Interview_Questions: 面试题集
-- KnowledgeShare: 干货分享
-- LearnFromZero: 从零单排
-- NLP: Natual Language Processing, 自然语言处理
-- OnePiece: 大航海
-- PracticeProject: 实战项目
-- PythonExercise: Python练习、应用
-- Resource: 资源目录
-- TechSalon: 技术沙龙
-- WeeklyReport: 每周新鲜事、分享好项目、好资源
+## Catalog description
+- ComputerVision: Computer Vision
+- DataScience: Data Science
+- Homework: All homework is submitted in this directory, and everyone creates their own independent directory
+- HR: referral channel
+- Interview_Questions: Interview question set
+- KnowledgeShare: dry goods sharing
+- LearnFromZero: Single row from zero
+- NLP: Natual Language Processing, Natural Language Processing
+- OnePiece: Great Voyage
+- PracticeProject: practical project
+- PythonExercise: Python exercises, applications
+- Resource: resource directory
+- TechSalon: Tech Salon
+- WeeklyReport: Weekly news, shared good projects, good resource catalog description
 
-## 使用说明
+## Instructions for use
 
-### 命名规范
+### Naming conventions
 
-#### 文件夹命名规范
-- 必须为英文
-- 全部小写
-- 单词之间用下划线分割，例如：nagios_check_tomcat
-- 第一个单词代表项目涉及应用，若有多个采用简写，最多2个单词简写，例如：Nagios+Zabbix+Tomcat，可以简写成：monitor
-- 文件夹最多3个单词
+#### Folder naming convention
+- must be in english
+- all lowercase
+- Words are separated by underscores, e.g.：nagios_check_tomcat
+- The first word represents the application involved in the project. If there are more than one abbreviation, the abbreviation can be up to 2 words, for example：Nagios+Zabbix+Tomcat，can be abbreviated as：monitor
+- Folder up to 3 words
 
-#### 文件命名规范
-- 必须为英文
-- 全部小写
-- 单词之间用下划线分割
-- 文件最多3个单词
+#### file naming convention
+-- must be in English
+- all lowercase
+- Words are separated by underscores
+- Document up to 3 words
 
 ## HR
-内推渠道，我会存放个人CV，各厂内推岗位介绍
+Internal promotion channels, I will store my personal CV, and internal promotion job introductions in each factory
 
 ## LearnFromZero
-从零单排，这是一个系列，我会来往里面填充内容
+Single row from zero, this is a series, I will fill it back and forth
 
-## PythonExercise
-- 工作中的脚本分享
-- 小工具
-- 每个小项目都需要创建一个文件夹，哪怕只有一个文件
-- 创建的项目需要对号入座，放到对应的文件夹里
+##PythonExercise
+- Script sharing at work
+- small tools
+- Every small project needs to create a folder, even if there is only one file
+- The created project needs to be checked and placed in the corresponding folder
 
 ## PracticeProject
-- 企业生产项目
-- 定制化项目
+- Enterprise production project
+- Customized items
 
-## OnePiece
-- 大航海项目，每个人都在OnePiece/clients/ 下新建一个属于自己的文件夹
-- 所有的个人文件、图片、资料都存在自己的文件夹下面，不要和他人的混在一起
+##OnePiece
+- For the big voyage project, everyone creates a folder of their own under OnePiece/clients/
+- All personal files, pictures, and materials are stored in their own folders, do not mix them with others
 
-## TechSalon
-技术沙龙分享，一期一个文件夹
+##TechSalon
+Technology salon sharing, one folder per issue
 
 ## Static
-存放项目相关静态文件
+Store project-related static files
 
 ## Homework
-给读者自己做练习的地方，允许提交，提交格式为：在 Homework 下面自己创建一个自己的文件夹，所有练习都提交在自己目录下面。
+It is a place for readers to do their own exercises. Submission is allowed. The submission format is: create a folder of your own under Homework, and submit all exercises under your own directory.
 
 ## Resource
-资源文件夹，一些学习资料，PDF，视频等都会上传在这个目录。
+Resource folders, some learning materials, PDFs, videos, etc. will be uploaded in this directory.
 
-# 星球介绍
+# Planet Introduction
 
-【人人都是Pythonista】
+【Everyone is a Pythonista】
 
-专注Python领域，要做最专业的Python星球。
+Focus on the Python field and be the most professional Python planet.
 
-星主是前四大咨询的TechLead，目前创业大数据领域，mongoDB Professional 获得者。
+Xingzhu is the TechLead of the top four consulting companies, and is currently the winner of mongoDB Professional in the field of entrepreneurial big data.
 
-【从零学Python】
+[Learn Python from scratch]
 
-提供从编译器如何使用、基本语法、函数、装饰器、面向对象等。
+Provides how to use the compiler, basic syntax, functions, decorators, object-oriented, etc.
 
-置顶帖“资源帖”里有一份全网最全的Python零基础脑图。
+The top post "Resource Post" contains the most complete Python zero-based brain map on the entire network.
 
-内容以文章形式表现，每篇文章都有课后练习，提交作业的同学会有专人负责批改，并提出意见。
+The content is expressed in the form of articles, and each article has after-class exercises. Students who submit homework will have a special person responsible for marking and giving comments.
 
-【实战项目】
+【Practical project】
 
-当你顺利的从零基础过来了或者想直接上手，我们提供了第二阶段的实训。
+When you successfully come from zero foundation or want to get started directly, we provide the second stage of practical training.
 
-实训包括了精心设计的迭代项目，也有生产项目和github上的优秀项目。
+The training includes well-designed iterative projects, as well as production projects and excellent projects on github.
 
-项目会有预热环节来做启动，报名人数严格控制，没有报名上的依然可以提交作业，但不会被批改。言下之意你可以旁听。
+There will be a warm-up session to start the project, and the number of applicants is strictly controlled. Those who have not registered can still submit their homework, but they will not be corrected. The implication is that you can listen in.
 
-实训有单独开发，也有协同合作。按照等级严格划分，只有通过第一个项目的，才能进入下一个项目的实训。
+The training can be developed independently or collaboratively. Strictly divided according to grades, only those who pass the first project can enter the next project training.
 
-【大航海】
+【Great voyage】
 
-有别于实训，实训项目全程以文章形式公开讨论，开发过程将会被记录下来。大航海采取语音直播的方式，而内容也将是全网唯一认证。
+Different from practical training, the whole training project will be discussed publicly in the form of articles, and the development process will be recorded. Dahanghai adopts the method of live voice broadcast, and the content will also be the only certification on the whole network.
 
-项目是一款自制游戏客户端。
+The project is a self-made game client.
 
-该项目由服务端和客户端组成，服务端已由星主和他的朋友开发完成，并且会不断迭代功能版本，球友需要自制客户端。
+The project consists of a server and a client. The server has been developed by Xingzhu and his friends, and the function version will be iterated continuously. Golfers need to make their own client.
 
-通过不断完善客户端逻辑来获得游戏的胜利，往期成员亦可参加新一期，但会有名额限制及角色转换。
+By continuously improving the logic of the client to win the game, members of the previous period can also participate in the new period, but there will be quota restrictions and role switching.
 
-【技术沙龙】
+【Technical Salon】
 
-我们会不定期组织线上技术沙龙活动，意在加强球友的互动和技术的交流。
+We will organize online technical salon activities from time to time, aiming to strengthen the interaction and technical exchange of golfers.
 
-沙龙活动会提前公布本次话题，参与技术沙龙的球友需要最少携带一个论点参与。
+The topic will be announced in advance in the salon event, and golfers participating in the technical salon need to bring at least one argument to participate.
 
-【内推渠道】
+【Internal referral channel】
 
-这是星主提供的一份福利，如果你通过了绝大多数项目的考核，并且在大航海中能够战胜星主的初级客户端，那么你就可以获得一次内推机会。
+This is a benefit provided by Star Lord. If you pass the assessment of most items and can defeat Star Lord's primary client in the great voyage, then you can get an internal referral opportunity。
 
 ---
 
-# 其他
+# other
 
-如果你也想加入我们，一起学习Python，和万人一起成为一名Pythonista。
+If you also want to join us, learn Python together, and become a Pythonista with thousands of people.
 
-改变生活从改变自己开始。
+Changing your life starts with changing yourself。
 
 <div align="center">
-    <img width="40%" src="https://raw.githubusercontent.com/MiracleYoung/You-are-Pythonista/master/Static/image/%e4%ba%ba%e4%ba%ba%e9%83%bd%e6%98%afPythonista%e9%82%80%e8%af%b7%e7%a0%81.jpeg" alt="知识星球二维码">
+    <img width="40%" src="https://raw.githubusercontent.com/MiracleYoung/You-are-Pythonista/master/Static/image/%e4%ba%ba%e4%ba%ba%e9%83%bd%e6%98%afPythonista%e9%82%80%e8%af%b7%e7%a0%81.jpeg" alt="Knowledge planet QR code">
 </div>
 
 
