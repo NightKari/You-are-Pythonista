@@ -48,7 +48,7 @@ Internal promotion channels, I will store my personal CV, and internal promotion
 ## LearnFromZero
 Single row from zero, this is a series, I will fill it back and forth
 
-##PythonExercise
+## PythonExercise
 - Script sharing at work
 - small tools
 - Every small project needs to create a folder, even if there is only one file
@@ -58,11 +58,11 @@ Single row from zero, this is a series, I will fill it back and forth
 - Enterprise production project
 - Customized items
 
-##OnePiece
+## OnePiece
 - For the big voyage project, everyone creates a folder of their own under OnePiece/clients/
 - All personal files, pictures, and materials are stored in their own folders, do not mix them with others
 
-##TechSalon
+## TechSalon
 Technology salon sharing, one folder per issue
 
 ## Static
