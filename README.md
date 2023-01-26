@@ -37,7 +37,7 @@ Please read this document carefully, especially the **Instructions for Use**。
 - Folder up to 3 words
 
 #### file naming convention
--- must be in English
+- must be in English
 - all lowercase
 - Words are separated by underscores
 - Document up to 3 words
@@ -127,10 +127,6 @@ This is a benefit provided by Star Lord. If you pass the assessment of most item
 If you also want to join us, learn Python together, and become a Pythonista with thousands of people.
 
 Changing your life starts with changing yourself。
-
-<div align="center">
-    <img width="40%" src="https://raw.githubusercontent.com/MiracleYoung/You-are-Pythonista/master/Static/image/%e4%ba%ba%e4%ba%ba%e9%83%bd%e6%98%afPythonista%e9%82%80%e8%af%b7%e7%a0%81.jpeg" alt="Knowledge planet QR code">
-</div>
 
 
 
